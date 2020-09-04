@@ -14,3 +14,4 @@ I am designing a Smart Industry for my project I want to work on the Corporate p
 Smart Industry: Every component like fan, light, window, camera, door is operating on wireless Tablet for comfortableness.
 **IOT devices:** Fan, light, Window, Garage, Door, camera, AC, Battery, Siren, Solar panel, Appliance, Motion Detector, Old car, Fire monitor, RFID card, RFID reader, fire sprinkler, Smoke detector, Smoke sensor, led, sirun, alarm. 
 **As programing bases I used two languages:** Python, Javascript. *For that I use MCU Board For fire monitor and motor and led control.
+![final photo](https://user-images.githubusercontent.com/53634850/92248899-f6e03900-eee6-11ea-95b5-87668c37e349.PNG)
