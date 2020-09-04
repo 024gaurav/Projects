@@ -3,7 +3,7 @@ I am designing a Smart Industry for my project I want to work on the Corporate p
 
 ## Project features:
 
-**RFID Based Door Lock:** <br>Door can be unlocked only by using a valid RFID card. If anyone wants to enter the office, he or she has to show RFID. If the RFID is valid, the door will be opened, otherwise not.<br>
+**RFID Based Door Lock:** <br>  Door can be unlocked only by using a valid RFID card. If anyone wants to enter the office, he or she has to show RFID. If the RFID is valid, the door will be opened, otherwise not.<br>
 **Smart Fan, based on Temperature:** <br>Smart Fan which will be started automatically when it’s high temperature using Thermostat. If the temperature is low then the fan turns off automatically.<br>
 **Solar Power battery charging:** <br>Based on solar power, motor and led will be running automatically. But, if the battery power finishes, they won’t be running. The battery only charges itself when there is sufficient light.<br>
 **Anti-theft protection:** <br>To provide anti-theft protection motion sensor is being used, if anyone enters through the entrance door the sensor will give the alert and camera will turn on.<br>
