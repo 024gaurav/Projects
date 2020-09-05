@@ -12,8 +12,9 @@ I am designing a Smart Industry for my project I want to work on the Corporate p
 **7.Fire alarm:** <br>If anything catches fire, the fire detector will give a siren to alert everyone and open a fire sprinkler.<br>
 **8.Smart garage:** <br>When The car is turned on then the garage door will open itself when it detects smoke. Garage door closes itself when there is no smoke, meaning either the car is far or it’s turned off inside the garage.<br>
 **9.Smart Industry:** <br>Every component like fan, light, window, camera, door is operating on wireless Tablet for comfortableness.<br>
+## Specification:
 **IOT devices:** <br>Fan, light, Window, Garage, Door, camera, AC, Battery, Siren, Solar panel, Appliance, Motion Detector, Old car, Fire monitor, RFID card, RFID reader, fire sprinkler, Smoke detector, Smoke sensor, led, sirun, alarm.<br> 
-**As programing bases I used two languages:** <br>Python, Javascript. *For that I use MCU Board For fire monitor and motor and led control.<br>
+**As programing bases I used two languages:** <br>Python, Javascript.<br>
 **For that I use MCU Board For fire monitor and motor and led control.**<br>
 ## Design of Cisco Packet Tracer
 ![final photo](https://user-images.githubusercontent.com/53634850/92248899-f6e03900-eee6-11ea-95b5-87668c37e349.PNG)
