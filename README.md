@@ -1,8 +1,7 @@
 # Smart Industry Using Cisco Packet Tracer
+## Introduction:
 I am designing a Smart Industry for my project I want to work on the Corporate plan of Industry, Where we can use all IOT devices for making a particular Industry as Smart Industry. So, I have decided to take Transport Industry for my project to make a Smart industry in Cisco packet tracer.
-
 ## Project features:
-
 **1.RFID Based Door Lock:** <br>  Door can be unlocked only by using a valid RFID card. If anyone wants to enter the office, he or she has to show RFID. If the RFID is valid, the door will be opened, otherwise not.<br>
 **2.Smart Fan, based on Temperature:** <br>Smart Fan which will be started automatically when it’s high temperature using Thermostat. If the temperature is low then the fan turns off automatically.<br>
 **3.Solar Power battery charging:** <br>Based on solar power, motor and led will be running automatically. But, if the battery power finishes, they won’t be running. The battery only charges itself when there is sufficient light.<br>
@@ -16,5 +15,5 @@ I am designing a Smart Industry for my project I want to work on the Corporate p
 **IOT devices:** <br>Fan, light, Window, Garage, Door, camera, AC, Battery, Siren, Solar panel, Appliance, Motion Detector, Old car, Fire monitor, RFID card, RFID reader, fire sprinkler, Smoke detector, Smoke sensor, led, sirun, alarm.<br> 
 **As programing bases I used two languages:** <br>Python, Javascript.<br>
 **For that I use MCU Board For fire monitor and motor and led control.**<br>
-## Design of Cisco Packet Tracer
+## Design of Cisco Packet Tracer:
 ![final photo](https://user-images.githubusercontent.com/53634850/92248899-f6e03900-eee6-11ea-95b5-87668c37e349.PNG)
